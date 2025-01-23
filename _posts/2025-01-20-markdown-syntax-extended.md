@@ -137,40 +137,6 @@ toc: true
   - [ ] 책 읽기
 
 
-<!-- ## 이모지
-
-- :이모지 이름: 으로 사용할 수 있습니다.
-
-- [이모지 이름 목록](https://gist.github.com/rxaviers/7360908) 에서 이모지 이름을 찾아 사용할 수 있지만, 이모지 이름은 애플리케이션 마다 다를 수 있습니다.
-
-- 만약 github page에서 이모지를 사용할 수 없는경우
-
-    - Gemfile 에 다음을 추가 합니다.
-
-        ```Gemfile
-        group :jekyll_plugins do
-	        gem "jemoji", "~> 0.11" # 버전은 상황에 따라 달라질 수 있습니다.
-        ```
-
-    - _config.yml 에 다음을 추가 합니다.
-
-        ```yml
-        plugins:
-            - jemoji
-        ```
-
-- 사용법
-
-    ```markdown
-    Gone camping! :tent: Be back soon.
-    That is so funny! :joy:
-    ```
-
-- 출력  
-    Gone camping! :tent: Be back soon.  
-    That is so funny! :joy: -->
-
-
 ---
 
 ※ 더 자세한 마크다운 문법을 확인 하려면 공식 마크다운 가이드를 확인 하세요. [Markdown Guide](https://www.markdownguide.org/extended-syntax/) 
