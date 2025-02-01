@@ -98,13 +98,13 @@ commit id: "C"
     - B.txt -> B1
     - C.txt -> C1
     
-		```mermaid
-		block-beta
-		
-		columns 5
-		
-		A1 B1 C1
-		```
+	```mermaid
+	block-beta
+	
+	columns 5
+	
+	A1 B1 C1
+	```
     
 - **커밋 A 내용**: A1, B1, C1
     
