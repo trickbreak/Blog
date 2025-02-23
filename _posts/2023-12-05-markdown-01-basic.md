@@ -1,7 +1,7 @@
 ---
 title: "1. 마크다운 기본 문법"
 date: 2023-12-05 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Markdown]
 tags: [Blog]
 toc: true
 ---

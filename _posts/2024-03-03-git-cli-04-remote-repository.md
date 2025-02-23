@@ -1,7 +1,7 @@
 ---
 title: "4. Git CLI - 원격 저장소 관리"
 date: 2024-03-03 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Git]
 tags: [Git]
 toc: true
 ---

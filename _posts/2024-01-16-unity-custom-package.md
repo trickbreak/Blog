@@ -1,7 +1,7 @@
 ---
 title: "유니티 커스텀 패키지 제작 및 배포"
 date: 2024-01-16 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Unity]
 tags: [Unity]
 toc: true
 ---

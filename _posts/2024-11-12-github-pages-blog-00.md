@@ -1,7 +1,7 @@
 ---
 title: "0. GitHub Pages를 이용해 블로그 운영하기"
 date: 2024-11-12 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Blog]
 tags: [Blog, GitHub]
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "부록2. docker-compose 사용 방법"
 date: 2025-01-28 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Docker]
 tags: [Docker]
 toc: true
 ---

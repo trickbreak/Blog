@@ -1,7 +1,7 @@
 ---
 title: "4. Docker Image 만들기"
 date: 2025-01-05 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Docker]
 tags: [Docker]
 toc: true
 ---

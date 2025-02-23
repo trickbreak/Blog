@@ -1,7 +1,7 @@
 ---
 title: "1. Git CLI - 기본 명령어"
 date: 2024-02-07 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Git]
 tags: [Git]
 toc: true
 ---

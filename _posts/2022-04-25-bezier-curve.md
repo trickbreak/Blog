@@ -1,7 +1,7 @@
 ---
 title: "베지에 곡선"
 date: 2022-04-25 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, GameMath]
 tags: [GameMath]
 toc: true
 math: true

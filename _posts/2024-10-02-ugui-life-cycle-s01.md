@@ -1,7 +1,7 @@
 ---
 title: "부록. UGUI 라이프사이클 응용 사례"
 date: 2024-10-02 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Unity]
 tags: [Unity]
 toc: true
 ---

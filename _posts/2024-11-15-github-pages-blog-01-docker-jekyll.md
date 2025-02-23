@@ -1,7 +1,7 @@
 ---
 title: "1. Docker로 Jekyll 로컬 서버 구축하기"
 date: 2024-11-15 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Blog]
 tags: [Blog, GitHub]
 toc: true
 ---

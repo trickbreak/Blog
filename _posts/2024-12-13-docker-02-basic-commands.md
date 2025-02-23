@@ -1,7 +1,7 @@
 ---
 title: "2. Docker 기본 사용 방법"
 date: 2024-12-13 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Docker]
 tags: [Docker]
 toc: true
 ---

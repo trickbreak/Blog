@@ -1,7 +1,7 @@
 ---
 title: "역삼각함수"
 date: 2023-11-20 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, GameMath]
 tags: [GameMath]
 toc: true
 math: true

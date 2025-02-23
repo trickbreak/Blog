@@ -1,7 +1,7 @@
 ---
 title: "3. Git CLI - 충돌"
 date: 2024-02-22 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Git]
 tags: [Git]
 toc: true
 ---

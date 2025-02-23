@@ -1,7 +1,7 @@
 ---
 title: "2. 마크다운 확장 문법"
 date: 2023-12-18 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Markdown]
 tags: [Blog]
 toc: true
 ---

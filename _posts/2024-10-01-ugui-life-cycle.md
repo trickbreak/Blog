@@ -1,7 +1,7 @@
 ---
 title: "UGUI 라이프사이클"
 date: 2024-10-01 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Unity]
 tags: [Unity]
 toc: true
 mermaid: true

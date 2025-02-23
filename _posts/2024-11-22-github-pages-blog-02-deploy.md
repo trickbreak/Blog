@@ -1,7 +1,7 @@
 ---
 title: "2. GitHub Pages에 배포"
 date: 2024-11-22 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Blog]
 tags: [Blog, GitHub]
 toc: true
 ---

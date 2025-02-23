@@ -1,7 +1,7 @@
 ---
 title: "2. Git CLI - rebase"
 date: 2024-02-15 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Git]
 tags: [Git]
 toc: true
 ---

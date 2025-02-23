@@ -1,7 +1,7 @@
 ---
 title: "3. Docker Volume 사용 방법"
 date: 2024-12-25 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Docker]
 tags: [Docker]
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "3. Chirpy 테마 적용 및 배포"
 date: 2024-11-29 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Blog]
 tags: [Blog, GitHub]
 toc: true
 ---

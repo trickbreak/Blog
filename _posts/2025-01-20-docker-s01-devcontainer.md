@@ -1,7 +1,7 @@
 ---
 title: "부록1. Devcontainer 사용 방법"
 date: 2025-01-20 00:00:00 +/-TTTT
-categories: [Main]
+categories: [Main, Docker]
 tags: [Docker]
 toc: true
 mermaid: true
