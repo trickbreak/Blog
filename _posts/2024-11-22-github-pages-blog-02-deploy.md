@@ -8,7 +8,7 @@ toc: true
 
 ## 가이드
 
-[0. GitHub Pages 를 이용해 블로그 운영하기](../../github-pages-blog-00)
+[0. GitHub Pages 를 이용해 블로그 운영하기](../github-pages-blog-00)
 
 ---
 
