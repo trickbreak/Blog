@@ -1,10 +1,14 @@
 ---
-title: "마크다운 기본 문법"
-date: 2025-01-16 17:00:00 +/-TTTT
+title: "1. 마크다운 기본 문법"
+date: 2023-12-05 00:00:00 +/-TTTT
 categories: [Main]
-tags: [Markdown, Bloging]
+tags: [Blog]
 toc: true
 ---
+
+## 가이드
+
+[0. 마크다운 문법](../markdown-00)
 
 ## 줄 바꿈
 

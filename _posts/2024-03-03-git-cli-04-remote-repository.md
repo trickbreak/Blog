@@ -1,19 +1,14 @@
 ---
 title: "4. Git CLI - 원격 저장소 관리"
-date: 2025-01-16 17:00:00 +/-TTTT
+date: 2024-03-03 00:00:00 +/-TTTT
 categories: [Main]
 tags: [Git]
 toc: true
 ---
 
-## 목차
+## 가이드
 
-Git CLI 명령어 시리즈 입니다.
-
-[1. Git CLI - 기본 명령어](../git-cli-base)  
-[2. Git CLI - rebase](../git-cli-rebase)  
-[3. Git CLI - 충돌](../git-cli-conflict)  
-[4. Git CLI - 원격 저장소 관리](../git-cli-remote-repository)  
+[0. Git CLI 시작하기](../git-cli-00)
 
 ---
 

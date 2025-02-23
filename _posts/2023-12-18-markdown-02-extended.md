@@ -1,13 +1,17 @@
 ---
-title: "마크다운 확장 문법"
-date: 2025-01-20 17:00:00 +/-TTTT
+title: "2. 마크다운 확장 문법"
+date: 2023-12-18 00:00:00 +/-TTTT
 categories: [Main]
-tags: [Markdown, Bloging]
+tags: [Blog]
 toc: true
 ---
 
 > 확장 구문은 모든 마크다운 애플리케이션에서 지원하는 것은 아닙니다.
 {: .prompt-warning }
+
+## 가이드
+
+[0. 마크다운 문법](../markdown-00)
 
 ## 테이블
 
