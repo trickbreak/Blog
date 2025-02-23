@@ -26,7 +26,6 @@ Chirpy 테마는 **포스트 단위 관리, 카테고리 정리, 태그 기능**
 Jekyll 테마는 다양한 플랫폼에서 배포되고 있습니다.
 
 - 🔗 [Jamstack Themes](https://jamstackthemes.dev/ssg/jekyll/)
-- 🔗 [Jekyll Themes (jekyllthemes.org)](http://jekyllthemes.org/)
 - 🔗 [Jekyll Themes (jekyllthemes.io)](https://jekyllthemes.io/)
 - 🔗 [Jekyll Themes (jekyll-themes.com)](https://jekyll-themes.com/)
 
