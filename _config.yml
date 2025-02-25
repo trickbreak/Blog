@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 개발 일지 # the main title
 
-tagline: 내가 배우고 남기는 게임 개발 블로그 # it will display as the subtitle
+tagline: 내가 배우고 남기는<br>게임 개발 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   게임 개발 및 소프트웨어 기술을 다루는 블로그입니다.
