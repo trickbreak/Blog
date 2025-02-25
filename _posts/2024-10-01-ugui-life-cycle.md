@@ -80,7 +80,8 @@ J-->K
 - UI 크기를 조정하거나 즉시 업데이트해야 한다면 **강제 업데이트가 필요**함.
 
 ```csharp
-Canvas.ForceUpdateCanvases(); LayoutRebuilder.ForceRebuildLayoutImmediate(targetRectTransform); 
+Canvas.ForceUpdateCanvases();
+LayoutRebuilder.ForceRebuildLayoutImmediate(targetRectTransform); 
 ```
 
 ### 8. EventSystem에서 UI 이벤트 처리
