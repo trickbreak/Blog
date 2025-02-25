@@ -81,7 +81,6 @@ J-->K
 
 ```csharp
 Canvas.ForceUpdateCanvases();
-LayoutRebuilder.ForceRebuildLayoutImmediate(targetRectTransform); 
 ```
 
 ### 8. EventSystem에서 UI 이벤트 처리
